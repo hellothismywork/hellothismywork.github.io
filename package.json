@@ -1,0 +1,29 @@
+{
+  "name": "sonicsoft",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "node server.js",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/cabin": "^4.5.9",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.3",
+    "@next/font": "13.1.0",
+    "aos": "^2.3.4",
+    "eslint": "8.30.0",
+    "eslint-config-next": "^0.2.4",
+    "express": "^4.18.2",
+    "next": "13.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-multi-carousel": "^2.8.2"
+  }
+}
